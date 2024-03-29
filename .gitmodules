@@ -1,0 +1,3 @@
+[submodule "thirdparty/instant-ngp"]
+	path = thirdparty/instant-ngp
+	url = git@github.com:NVlabs/instant-ngp.git
