@@ -5,11 +5,22 @@
 The data folder has the following structure
 
 ```
-data/
 ├── objects
-│   ├── object1
-│   └── object2
+│   ├── object_1
+│   │   ├── combined
+│   │   ├── video_1
+│   │   └── video_2
+│   └── object_2
+│       ├── combined
+│       ├── video_1
+│       └── video_2
 └── scenes
-    ├── scene1
-    └── scene2
+    ├── scene_1
+    │   ├── combined
+    │   ├── video_1
+    │   └── video_2
+    └── scene_2
+        ├── combined
+        ├── video_1
+        └── video_2
 ```
